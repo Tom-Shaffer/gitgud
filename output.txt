@@ -1,5 +1,5 @@
 Please enter the path to your local git repo
-User	Total Commits	Merge Master Commits	Percentage of Merge Master Commits	OffendingCommitNameExample
+User	Total Commits	Merge Commits	Percentage of Merge Commits
 --------------------------------------------------------------------------------
 slerner	13		8			61.54%
 Dscore	2		1			50.00%
