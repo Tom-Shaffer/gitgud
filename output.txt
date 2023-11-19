@@ -1,0 +1,105 @@
+Please enter the path to your local git repo
+User	Total Commits	Merge Master Commits	Percentage of Merge Master Commits	OffendingCommitNameExample
+--------------------------------------------------------------------------------
+slerner	13		8			61.54%
+Dscore	2		1			50.00%
+Tarini Kandula	1004		465			46.31%
+Priyanka	51		19			37.25%
+jhooten	117		43			36.75%
+Daniel	7		2			28.57%
+Jmusita	72		17			23.61%
+Kimberley Elcess	199		36			18.09%
+Pablo Polanco	76		13			17.11%
+Eden Jameson Gravis	403		54			13.40%
+mcaron	9		1			11.11%
+michael0maldonado	46		5			10.87%
+Stacey Tarr	194		18			9.28%
+no	11		1			9.09%
+Cesar Espino	294		25			8.50%
+Colin Clarke	12		1			8.33%
+Shelby Jordan	13		1			7.69%
+qarora	175		12			6.86%
+John Decker	353		21			5.95%
+Shannon Porter	40		2			5.00%
+Richard Amor	127		6			4.72%
+Andrea Robertson	153		7			4.58%
+Joshua Sas	44		2			4.55%
+NivBitan	48		2			4.17%
+warcher	78		3			3.85%
+Jason Hooten	169		6			3.55%
+Shweta Rane	64		2			3.12%
+John Mann	390		12			3.08%
+Anthony Watson	67		2			2.99%
+Bobby Lee	136		4			2.94%
+Phil Belenkin	396		10			2.53%
+Daniel Steinhauser	245		6			2.45%
+JasonBye	232		5			2.16%
+Brian Russell	108		2			1.85%
+Tom Shaffer	168		3			1.79%
+Jason Bye	176		3			1.70%
+srane	62		1			1.61%
+Mabeena Singh	81		1			1.23%
+Michael Weatherton	84		1			1.19%
+Dean Score	169		1			0.59%
+Gordon Chan	169		1			0.59%
+Joel Musita	427		1			0.23%
+Phil Bel	36		0			0.00%
+Jadie Hooten	115		0			0.00%
+Courtney Weatherton	386		0			0.00%
+cweatherton	50		0			0.00%
+John Bendfeldt	335		0			0.00%
+Chris Vazquez	31		0			0.00%
+Woody Archer	498		0			0.00%
+Beth Bourgeois	62		0			0.00%
+Andrey Sat	140		0			0.00%
+Marie-Eve Caron	50		0			0.00%
+JaroslavENDER	4		0			0.00%
+Esteban Tristan	2		0			0.00%
+Priyanka Shastri	161		0			0.00%
+Paul Bradshaw	162		0			0.00%
+Jarsoslav Pavlenko	56		0			0.00%
+Vivek	1		0			0.00%
+Diviya Sundareswaran	27		0			0.00%
+Alireza Moghaddam	311		0			0.00%
+Sally Clark	23		0			0.00%
+Joshua Sass	33		0			0.00%
+Jhenelle Davey	3		0			0.00%
+Andrew Bond	3		0			0.00%
+Daniel Gills	95		0			0.00%
+Lynn Richardson	6		0			0.00%
+Diviya Sundares	3		0			0.00%
+Niv Bitan	74		0			0.00%
+Alex Wells	66		0			0.00%
+Lindsey Cohn	2		0			0.00%
+Qunvar Arora	104		0			0.00%
+Arthur Reeves	5		0			0.00%
+Vivek Sahani_IC	38		0			0.00%
+Tomas Dozier	4		0			0.00%
+Ehssan Tehrani	19		0			0.00%
+tdozier_ic	2		0			0.00%
+ASI\jdavey	2		0			0.00%
+tomasdozier	6		0			0.00%
+Leigh Gorman	6		0			0.00%
+Jim Hurd	4		0			0.00%
+Michelle Balagia	5		0			0.00%
+Don Robertson	23		0			0.00%
+amoghaddam@advsol.com	14		0			0.00%
+areeves	1		0			0.00%
+Alex Zaugarov_IC	1		0			0.00%
+jbendfeldt	60		0			0.00%
+Geoffrey Chambless	93		0			0.00%
+Michael Maldonado	112		0			0.00%
+gchambless	26		0			0.00%
+Kelli Hoag	5		0			0.00%
+Sarah Alford	1		0			0.00%
+dean score	25		0			0.00%
+PBelenkin	9		0			0.00%
+Samuel Lerner	37		0			0.00%
+Manuel Ramirez	6		0			0.00%
+RIchard Amor	2		0			0.00%
+Richard Kaskan	50		0			0.00%
+lrichardson	1		0			0.00%
+priyanka@outliersinc.net	2		0			0.00%
+kranthi@outliersinc.net	2		0			0.00%
+Keith Fossella	1		0			0.00%
+Molly Verduzco	22		0			0.00%
